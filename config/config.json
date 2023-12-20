@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "12345678",
+    "database": "db_klasifikasi",
+    "host": "34.101.95.138",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "12345678",
+    "database": "database_test",
+    "host": "34.101.95.138",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "12345678",
+    "database": "database_production",
+    "host": "34.101.95.138",
+    "dialect": "mysql"
+  }
+}
